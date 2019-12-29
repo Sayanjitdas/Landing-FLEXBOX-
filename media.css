@@ -1,0 +1,28 @@
+@media screen and (max-width: 500px) {
+    body{
+        font-size: 10px;
+    }
+    .nav-links{
+        margin: 0;
+    }
+
+    .nav-link-item{
+        margin: 0px 10px;
+    }
+
+    .hero{
+        margin-top: 6rem;
+    }
+    
+    .pre-headline{
+        font-size: 3.6rem;
+    }
+
+    .about-content{
+        margin: 1.5rem;
+    }
+
+    .form-content{
+        width: 95%;
+    }
+}
